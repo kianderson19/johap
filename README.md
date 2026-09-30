@@ -1,6 +1,9 @@
-# 조합
+# Johap
 
-공개 주소는 https://kianderson19.github.io/johap/ 이다.
+홈페이지: https://kianderson19.github.io/
 
-이 저장소는 만들어진 정적 파일만 담는다. 계정, 비밀번호, 파일 쓰기는 없다.
-패치 반영은 개발 중인 컴퓨터에서만 된다.
+Windows 데스크톱 프로토타입: https://github.com/kianderson19/johap/releases/tag/desktop-v0.1.0
+
+이전 /johap/ 주소는 새 홈페이지로 이동합니다. 기존 정적 자료와 릴리스는 보존합니다.
+
+문의: https://github.com/kianderson19/johap/issues
